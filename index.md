@@ -26,7 +26,7 @@ his artistic creations, you'll understand why he makes his living as a programme
 
 He lives with his family in Alabama.
 
-![Joe's Family]({{ site.url }}/images/JoeHover.png)
+![Joe's Family]({{ site.url }}/images/family.jpg)
 
 ## What I Do
 
