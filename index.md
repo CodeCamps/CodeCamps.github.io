@@ -37,14 +37,14 @@ The projects that they create can be found here:
 
 ## Classes (Montgomery, AL)
 
-- [Class2013]{http://camps.moreoncode.com/Class2013/)
+- [Class2013](http://camps.moreoncode.com/Class2013/)
 
 ## Camps (Banner Elk, NC)
 
-- [Camp2014]{http://camps.moreoncode.com/Camp2014/)
-- [Camp2013]{http://camps.moreoncode.com/Camp2013/)
-- [Camp2012]{http://camps.moreoncode.com/Camp2012/)
-- [Camp2011]{http://camps.moreoncode.com/Camp2011/)
+- [Camp2014](http://camps.moreoncode.com/Camp2014/)
+- [Camp2013](http://camps.moreoncode.com/Camp2013/)
+- [Camp2012](http://camps.moreoncode.com/Camp2012/)
+- [Camp2011](http://camps.moreoncode.com/Camp2011/)
 
 ## Prerequisites
 
@@ -77,4 +77,4 @@ Thanks for stopping by. I haven't quite decided what else will live here yet. Bu
 
 ![Super Joe!]({{ site.url }}/images/JoeHover.png)
 
-[Generate Most Current Project Markdown](ProjectListMarkdown.html) | [MoreOnCode.com](http://www.moreoncode.com/) | [LandryAcademy.com](http://landryacademy.com/)
+[Generate Most Current Project Markdown](ProjectListMarkdown.html) &#124; [MoreOnCode.com](http://www.moreoncode.com/) &#124; [LandryAcademy.com](http://landryacademy.com/)
