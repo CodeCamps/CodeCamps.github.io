@@ -30,7 +30,7 @@ He lives with his family in Alabama.
 
 ## What I Do
 
-I teach a game programming camp every year for [Landry Academy](http://landryacademy.com/] in (Banner Elk, NC)[https://www.google.com/maps/place/Banner+Elk,+NC+28604/@36.1567804,-81.872516,15z/data=!3m1!4b1!4m2!3m1!1s0x88508d56395ba3f1:0x4d2442b0fcfa987a). 
+I teach a game programming camp every year for [Landry Academy](http://landryacademy.com/) in [Banner Elk, NC](https://www.google.com/maps/place/Banner+Elk,+NC+28604/@36.1567804,-81.872516,15z/data=!3m1!4b1!4m2!3m1!1s0x88508d56395ba3f1:0x4d2442b0fcfa987a). 
 I occasionally do the same for some local teens and tweens in [Montgomery, AL](https://www.google.com/maps/place/Montgomery,+AL/@32.343799,-86.2460375,12z/data=!3m1!4b1!4m2!3m1!1s0x888e8194b0d481f9:0x8e1b511d354285ff).
 
 The projects that they create can be found here:
