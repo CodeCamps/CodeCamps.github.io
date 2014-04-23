@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CodeCamps Project List</title>
+	</head>
+	<body>
+		<div id="divPageListMarkdown">Loading ...</div>
+	</body>
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+		<script type="text/javascript">
+			function GetPageList() {
+				$.ajax({
+					type: "GET",
+					url: "https://api.github.com/users/CodeCamps/repos",
+					cache: false,
+					dataType: "json",
+					success: function(json) {
+						DisplayPageList(json);
+					},
+					error: function(jqXHR, textStatus, errorThrown) {
+						document.write("Unable to retrieve data.");
+					}
+				});
+			};
+			
+			function DisplayPageList(pages) {
+				pages.sort(function(b,a){
+					if(a.name < b.name) {
+						return -1;
+					} else if(a.name > b.name) {
+						return 1;
+					}
+					return 0;
+				});
+				
+				var result = "";
+				var foundClass = false;
+				var foundCamp = false;
+				for(var index in pages) {
+					var page = pages[index];
+console.log(page);
+					var isClass = page.name.lastIndexOf("Class",0) === 0;
+					var isCamp  = page.name.lastIndexOf("Camp",0)  === 0;
+					
+					if(isClass && !foundClass) {
+						result += "## Classes (Montgomery, AL)\n\n";
+						foundClass = true;
+					}
+					
+					if(isCamp && !foundCamp) {
+						result += "\n## Camps (Banner Elk, NC)\n\n";
+						foundCamp = true;;
+					}
+					
+					
+					
+					if(isClass || isCamp) {
+						result += "- [" + page.name + "]{http://camps.moreoncode.com/" + page.name + "/)\n"; // page.description page.html_url
+					}
+				}
+				
+				$("#divPageListMarkdown").html("<pre>"+result+"</pre>");
+			}
+			
+			$(document).ready(function(){
+				GetPageList();
+			});
+		</script>
+
+</html>
