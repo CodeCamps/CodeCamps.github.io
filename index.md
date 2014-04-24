@@ -5,23 +5,25 @@ tagline: ""
 ---
 {% include JB/setup %}
 
-I teach a game programming camp every year for [Landry Academy](http://landryacademy.com/) in [Banner Elk, NC](https://www.google.com/maps/place/Banner+Elk,+NC+28604/@36.1567804,-81.872516,15z/data=!3m1!4b1!4m2!3m1!1s0x88508d56395ba3f1:0x4d2442b0fcfa987a). 
-I occasionally do the same for some local teens and tweens in [Montgomery, AL](https://www.google.com/maps/place/Montgomery,+AL/@32.343799,-86.2460375,12z/data=!3m1!4b1!4m2!3m1!1s0x888e8194b0d481f9:0x8e1b511d354285ff).
+I teach a game programming camp every year for [Landry Academy](http://landryacademy.com/){:target="_blank"} in [Banner Elk, NC](https://www.google.com/maps/place/Banner+Elk,+NC+28604/@36.1567804,-81.872516,15z/data=!3m1!4b1!4m2!3m1!1s0x88508d56395ba3f1:0x4d2442b0fcfa987a){:target="_blank"}. 
+I occasionally do the same for some local teens and tweens in [Montgomery, AL](https://www.google.com/maps/place/Montgomery,+AL/@32.343799,-86.2460375,12z/data=!3m1!4b1!4m2!3m1!1s0x888e8194b0d481f9:0x8e1b511d354285ff){:target="_blank"}.
+
+## Projects
 
 The projects that they create can be found here:
 
-## Classes (Montgomery, AL)
+### Classes (Montgomery, AL)
 
 - [Class2013](http://camps.moreoncode.com/Class2013/)
 
-## Camps (Banner Elk, NC)
+### Camps (Banner Elk, NC)
 
 - [Camp2014](http://camps.moreoncode.com/Camp2014/)
 - [Camp2013](http://camps.moreoncode.com/Camp2013/)
 - [Camp2012](http://camps.moreoncode.com/Camp2012/)
 - [Camp2011](http://camps.moreoncode.com/Camp2011/)
 
-## Prerequisites
+## What to Expect
 
 Students will collaborate in the design and implementation of a video game. 
 From whiteboard sketch to computer screen, they will learn how to create the 
@@ -38,6 +40,8 @@ encouraged to identify and implement changes to the class game to put their
 own personal touches on the project. This helps ensure that the students 
 understand the material that was covered well enough to venture out on their 
 own. 
+
+## Prerequisites
 
 While there are no prerequisites for this camp, each student **MUST** bring 
 their own laptop which runs some version of Windows (XP/Vista/7). A MacBook 
