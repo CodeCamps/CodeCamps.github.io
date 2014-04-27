@@ -74,11 +74,4 @@ his artistic creations, you'll understand why he makes his living as a programme
 
 Joe lives with his family in Montgomery, Alabama. 
 
-## Thanks
-
-Thanks for stopping by. I haven't quite decided what else will live here yet. 
-But, you can probably expect more content here soon.
-
-![Super Joe!]({{ site.url }}/images/JoeHover.png)
-
-[MoreOnCode.com](http://www.moreoncode.com/) &#124; [LandryAcademy.com](http://landryacademy.com/) &#124; [Generate Current Project Markdown](ProjectListMarkdown.html) 
+[MoreOnCode.com](http://www.moreoncode.com/) &#124; [LandryAcademy.com](http://landryacademy.com/) &#124; [Generate Project Markdown](ProjectListMarkdown.html) 
