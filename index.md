@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code Camp
+title: Game Camps
 tagline: ""
 ---
 {% include JB/setup %}
