@@ -59,7 +59,7 @@
 						<li><a href="/" class="active">Camp Blog</a></li>
 					{% endif %}
   
-					{% assign pages_list = site.pages %}
+					{% assign pages_list = site.pages | sort:"name" %}
 					{% assign group = 'navigation' %}
 					{% include JB/pages_list %}
 				</ul>
