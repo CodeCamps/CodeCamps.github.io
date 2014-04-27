@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Code Camp Projects
+title: Code Camp
+foo: bar
 tagline: ""
 ---
 {% include JB/setup %}
@@ -75,3 +76,5 @@ his artistic creations, you'll understand why he makes his living as a programme
 Joe lives with his family in Montgomery, Alabama. 
 
 [MoreOnCode.com](http://www.moreoncode.com/) &#124; [LandryAcademy.com](http://landryacademy.com/) &#124; [Generate Project Markdown](ProjectListMarkdown.html) 
+
+{{ page.foo }}
