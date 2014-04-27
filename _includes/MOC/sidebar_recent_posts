@@ -2,7 +2,7 @@
 
 		<div style="font-size:0.9em;">
 			<ul class="posts" style="list-style-type:none; list-style:none; margin:0; padding:0; margin-left:10px;">
-			  {% for post in site.posts offset:0 limit:6 %}
+			  {% for post in site.posts offset:0 limit:10 %}
 				<li>
 					<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
 					<br/>

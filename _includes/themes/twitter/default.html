@@ -52,11 +52,11 @@
 			<div class="container">
 				<a class="brand" href="http://www.moreoncode.com">{{ site.title }}</a>
 				<ul class="nav">
-
+						<li><a href="http://blog.moreoncode.com">Main Blog</a></li>
 					{% if page.url == BASE_PATH or page.url == '/index.html' %}
-						<li class="active"><a href="/" class="active">Game Camps</a></li>
+						<li class="active"><a href="/" class="active">Camp Blog</a></li>
 					{% else %}
-						<li><a href="/" class="active">Game Camps</a></li>
+						<li><a href="/" class="active">Camp Blog</a></li>
 					{% endif %}
   
 					{% assign pages_list = site.pages %}
