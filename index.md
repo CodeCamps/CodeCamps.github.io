@@ -44,7 +44,7 @@ own.
 ## Prerequisites
 
 While there are no prerequisites for this camp, each student **MUST** bring 
-their own laptop which runs some version of Windows (XP/Vista/7). A MacBook 
+their own laptop which runs some version of Windows (XP/Vista/7/8). A MacBook 
 may be used, but it will need to have a copy of Windows running in a virtual 
 machine (e.g. Parallels or VMWare Fusion) or BootCamp. 
 
